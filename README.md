@@ -1,7 +1,5 @@
 ## Greetings and salutations!
 
-[![HitCount](http://hits.dwyl.com/rdcox/rdcox.svg)](http://hits.dwyl.com/rdcox/rdcox)
-
 I like to build cool things that answer interesting questions.
 
 Excuse the empty space, I recently restarted this account to clean out the code I wasn't proud of. It'll be filling up again soon.
