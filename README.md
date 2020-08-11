@@ -1,4 +1,4 @@
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=rdcox" alt="rdcox" /> </p>
+## Hello!
 
 [![HitCount](http://hits.dwyl.com/rdcox/rdcox.svg)](http://hits.dwyl.com/rdcox/rdcox)
 
